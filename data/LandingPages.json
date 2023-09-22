@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Gecko Remote",
+        "description": "Beautfiul eyecatching template complete with five Sections to help you highlight and showcase your product.",
+        "price": "$19",
+        "lastUpdate": "22 August 2022",
+        "image": "/Images/Card/gecko-remote.png"
+    },
+    {
+        "id": 2,
+        "title": "Saasolio",
+        "description": "A modern, tested landing page that has an excellent conversion rate of 20%. Great for a small SAAS Product.",
+        "price": "$10",
+        "lastUpdate": "16 Jan 2022",
+        "image": "/Images/Card/saasolio.png"
+    },
+    {
+        "id": 3,
+        "title": "Files",
+        "description": "A clean, green themed landing page with hints to help you create a highly converting landing page for your start up.",
+        "price": "$14",
+        "lastUpdate": "22 August 2022",
+        "image": "/Images/Card/gecko-remote.png"
+    },
+    {
+        "id": 4,
+        "title": "Files",
+        "description": "A clean, green themed landing page with hints to help you create a highly converting landing page for your start up.",
+        "price": "$14",
+        "lastUpdate": "22 August 2022",
+        "image": "/Images/Card/files.png"
+    },
+    {
+        "id": 5,
+        "title": "Files",
+        "description": "A clean, green themed landing page with hints to help you create a highly converting landing page for your start up.",
+        "price": "$14",
+        "lastUpdate": "22 August 2022",
+        "image": "/Images/Card/gecko-remote.png"
+    },
+    {
+        "id": 6,
+        "title": "Files",
+        "description": "A clean, green themed landing page with hints to help you create a highly converting landing page for your start up.",
+        "price": "$14",
+        "lastUpdate": "22 August 2022",
+        "image": "/Images/Card/files.png"
+    },
+    {
+        "id": 7,
+        "title": "Files",
+        "description": "A clean, green themed landing page with hints to help you create a highly converting landing page for your start up.",
+        "price": "$14",
+        "lastUpdate": "22 August 2022",
+        "image": "/Images/Card/gecko-remote.png"
+    },
+    {
+        "id": 8,
+        "title": "Saasolio",
+        "description": "A modern, tested landing page that has an excellent conversion rate of 20%. Great for a small SAAS Product.",
+        "price": "$10",
+        "lastUpdate": "16 Jan 2022",
+        "image": "/Images/Card/saasolio.png"
+    }
+]

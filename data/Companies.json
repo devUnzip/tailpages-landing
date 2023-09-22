@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Dropbox",
+        "image": "/Images/Companies/dropbox.png"
+    },
+    {
+        "id": 2,
+        "name": "Slack",
+        "image": "/Images/Companies/slack.png"
+    },
+    {
+        "id": 3,
+        "name": "Spotify",
+        "image": "/Images/Companies/spotify.png"
+    },
+    {
+        "id": 4,
+        "name": "Coinbase",
+        "image": "/Images/Companies/coinbase.png"
+    },
+    {
+        "id": 5,
+        "name": "Webflow",
+        "image": "/Images/Companies/Webflow.png"
+    },
+    {
+        "id": 6,
+        "name": "Zoom",
+        "image": "/Images/Companies/zoom.png"
+    }
+]
